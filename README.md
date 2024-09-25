@@ -27,7 +27,7 @@ This is a .NET Core-based RESTful API designed for managing employee data within
 
     ```bash
     git clone https://github.com/Naoldaba/Employee-Management-System.git
-    cd Employee-Management-API
+    cd Employee-Management-System
     ```
 
 2. Set up your environment variables:
