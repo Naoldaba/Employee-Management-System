@@ -1,0 +1,26 @@
+# build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+
+# Visual Studio Code
+.vs/
+
+# Auto-generated files from NuGet packages
+*.nupkg
+*.snupkg
+
+# Migrations Binary
+Migrations/
+
+# Environment and configuration files
+.env
+
+# Hidden system files
+.DS_Store
+Thumbs.db
+
+# Windows image file caches
+*.ipch
